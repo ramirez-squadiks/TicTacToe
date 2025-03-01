@@ -10,4 +10,4 @@
 2. **Клонируйте репозиторий**:
 
    ```bash
-   git clone https://github.com/ваш_логин/TicTacToe.git
+   git clone https://github.com/ramirez-squadiks/TicTacToe.git
